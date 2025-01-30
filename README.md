@@ -147,7 +147,7 @@ ORDER by "total profit" desc;
   Australia
 - The most valuable customers are;Tamara Chand,Raymond Buch,Sanjit Chand and they purchased Copiers
 
-## Recommendation
+## Recommendations
 ---
 - Given that the superstore has a profit of $93,484, the store should focus on enhancing the customer experience both online and instore.
 - The introduction of new product line should be made to capture additional market share
