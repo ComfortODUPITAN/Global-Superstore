@@ -118,7 +118,7 @@ ORDER by "total profit" desc;
 ![INSIGHTS 2](https://github.com/user-attachments/assets/14955aae-558f-4532-9206-0d2f05f14c51)
 
 ### 4. Visualization
-#### Power BI- for visualizing the dataset
+#### Power BI- to visualize the dataset
 [Download PowerBI](Microsoft.com)
 
 ![DASHBOARD 1](https://github.com/user-attachments/assets/e05050d0-75e6-4963-9922-36491fdf9274)
