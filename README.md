@@ -16,7 +16,12 @@ Global Superstore is a global online retailer based in New York, boasting a broa
 - To know why this city’s average profit so low?
 - To show the product subcategory with the highest average profit in Australia
 - To identify the most valuable customers and what they purchased
-
+  
+## Tool
+- Microsoft Excel
+- PowerBI
+- SQL
+  
 ## Methodology
 ---
 ### 1. Data Source
